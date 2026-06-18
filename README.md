@@ -48,6 +48,8 @@ I enjoy building real-world solutions that solve practical problems using modern
 - Scikit-learn
 - Pandas
 - NumPy
+- Matplotlib
+- Artificial Intelligence
 
 ---
 
