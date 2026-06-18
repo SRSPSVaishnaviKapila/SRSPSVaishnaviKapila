@@ -1,5 +1,73 @@
 # 💫 About Me:
-Hi, I'm Kapila Vaishnavi, a passionate Computer Science Engineering student with a strong interest in Artificial Intelligence, Machine Learning, and Full-Stack Development.<br> I enjoy building real-world solutions that solve practical problems using modern technologies.<br>I love exploring new technologies, improving my problem-solving skills, and contributing to innovative software solutions.<H1><br>Programming Languages<\H1><br>Python<br>C<br>SQL<br>JavaScript<br>Frontend Development<br>HTML5<br>CSS3<br>JavaScript (ES6+)<br>Backend Development<br>FastAPI<br>REST APIs<br>Uvicorn<br>Database<br>SQLite<br>SQL<br>AI / Machine Learning<br>Machine Learning<br>Data Analysis<br>Predictive Modeling<br>NLP (Natural Language Processing)<br>Scikit-learn<br>Pandas<br>NumPy<br>Tools & Platforms<br>Git<br>GitHub<br>VS Code<br>PyCharm<br>Google Colab<br>Jupyter Notebook
+# Hi, I'm Kapila Vaishnavi 👋
+
+### About Me
+
+I'm a passionate **Computer Science Engineering student** with a strong interest in **Artificial Intelligence, Machine Learning, and Full-Stack Development**.
+
+I enjoy building real-world solutions that solve practical problems using modern technologies. I love exploring new technologies, improving my problem-solving skills, and contributing to innovative software solutions.
+
+---
+
+## Programming Languages
+
+- Python
+- C
+- SQL
+- Java
+
+---
+
+##  Frontend Development
+
+- HTML5
+- CSS3
+- JavaScript 
+
+---
+
+##  Backend Development
+
+- FastAPI
+- REST APIs
+- Uvicorn
+
+---
+
+## Database
+
+- SQLite
+- SQL
+
+---
+
+## 🤖 AI / Machine Learning
+
+- Machine Learning
+- Data Analysis
+- Scikit-learn
+- Pandas
+- NumPy
+
+---
+
+## 🛠️ Tools & Platforms
+
+- Git
+- GitHub
+- VS Code
+- PyCharm
+- Google Colab
+- Jupyter Notebook
+
+---
+
+
+### 📫 Connect With Me
+
+- GitHub: [https://github.com/SRSPSVaishnaviKapila]
+- LinkedIn: [www.linkedin.com/in/vaishnavi-kapila-b27963331]
+
 
 
 # 💻 Tech Stack:
